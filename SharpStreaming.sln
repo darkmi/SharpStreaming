@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpStreamingServer", "SharpStreamingServer\SharpStreamingServer.csproj", "{EF015B1E-D832-41B5-89F6-E021B3724105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpStreamingClient", "SharpStreamingClient\SharpStreamingClient.csproj", "{D6931E5A-6ABA-4076-B284-1443A6FB44F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpStreaming.Core", "SharpStreaming.Core\SharpStreaming.Core.csproj", "{B0F1A8BF-5923-4C49-BA82-DE2AA4F239E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF015B1E-D832-41B5-89F6-E021B3724105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF015B1E-D832-41B5-89F6-E021B3724105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF015B1E-D832-41B5-89F6-E021B3724105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF015B1E-D832-41B5-89F6-E021B3724105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6931E5A-6ABA-4076-B284-1443A6FB44F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6931E5A-6ABA-4076-B284-1443A6FB44F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6931E5A-6ABA-4076-B284-1443A6FB44F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6931E5A-6ABA-4076-B284-1443A6FB44F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F1A8BF-5923-4C49-BA82-DE2AA4F239E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F1A8BF-5923-4C49-BA82-DE2AA4F239E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F1A8BF-5923-4C49-BA82-DE2AA4F239E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F1A8BF-5923-4C49-BA82-DE2AA4F239E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
