@@ -53,6 +53,9 @@
     <WarningLevel>4</WarningLevel>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Simon.SharpStreamingClient.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.DirectX.AudioVideoPlayback">
       <HintPath>C:\Documents and Settings\Administrator\桌面\microsoft.directx.audiovideoplayback\X86\9.15.779.0000\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>

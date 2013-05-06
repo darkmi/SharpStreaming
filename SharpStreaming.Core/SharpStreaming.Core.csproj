@@ -54,7 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.DirectX.AudioVideoPlayback, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
-      <HintPath>C:\Documents and Settings\Administrator\桌面\microsoft.directx.audiovideoplayback\X86\9.15.779.0000\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
+      <HintPath>Lib\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
